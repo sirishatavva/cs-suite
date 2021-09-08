@@ -4,7 +4,7 @@ import os
 import time
 import webbrowser
 import json
-from modules import logger
+import logger
 
 log = logger.get()
 
